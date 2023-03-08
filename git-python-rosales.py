@@ -1,0 +1,6 @@
+fullname = input("Enter your fullname:")
+print(fullname)
+address = input("Enter your address:")
+print(address)
+birthday = input("Enter your birthday:")
+print(birthday)
