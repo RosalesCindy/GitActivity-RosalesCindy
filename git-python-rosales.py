@@ -13,3 +13,10 @@ year = input("Year:")
 print(year)
 section = input("Section:")
 print(section)
+
+print("Reading wattpad")
+print("Watching movies, tv series, etc")
+print("Scrolling in social media")
+print("Playing farm heroes saga")
+print("Playing badminton")
+
